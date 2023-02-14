@@ -1,4 +1,4 @@
-image: Ubunt1804
+image: Ubuntu1804
 stack: node 12
 branches:
   only:
